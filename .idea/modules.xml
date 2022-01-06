@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/../n_back_task/.idea/n_back_task.iml" filepath="$PROJECT_DIR$/../n_back_task/.idea/n_back_task.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/n_back.iml" filepath="$PROJECT_DIR$/.idea/n_back.iml" />
+>>>>>>> 8d89bfe (Initial commit)
     </modules>
   </component>
 </project>
